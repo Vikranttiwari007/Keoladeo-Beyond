@@ -1,0 +1,199 @@
+{
+  "photos": [
+    {
+      "id": "peacock-sariska-dance",
+      "title": "Full Display",
+      "species": "Indian Peafowl",
+      "location": "Sariska Tiger Reserve, Rajasthan",
+      "category": "birds",
+      "featured": true,
+      "story": "Every feather up and fanned, the national bird doing the one thing it's known for — a rare burst of colour against the dry scrub of Rajasthan.",
+      "image": "assets/images/full/peacock-sariska-dance.jpg",
+      "thumb": "assets/images/thumb/peacock-sariska-dance.jpg",
+      "credit": "Bhavanak2000 / Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "sarus-crane-keoladeo",
+      "title": "Two Generations",
+      "species": "Sarus Crane",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": true,
+      "story": "A juvenile keeps close to an adult on the same stretch of marsh where this whole project began — the tallest flying bird in the world, dwarfing everything around it.",
+      "image": "assets/images/full/sarus-crane-keoladeo.jpg",
+      "thumb": "assets/images/thumb/sarus-crane-keoladeo.jpg",
+      "credit": "Rohit Sharma / Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "starlings-pillar",
+      "title": "Two of a Kind",
+      "species": "Asian Pied Starling",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": true,
+      "story": "A pair paused mid-conversation on an old sandstone marker, the morning mist folding the grassland behind them into a single soft wash of colour.",
+      "image": "assets/images/full/starlings-pillar.jpg",
+      "thumb": "assets/images/thumb/starlings-pillar.jpg"
+    },
+    {
+      "id": "flamingos-rann-of-kutch",
+      "title": "Salt and Pink",
+      "species": "Greater Flamingo",
+      "location": "Rann of Kutch, Gujarat",
+      "category": "birds",
+      "featured": true,
+      "story": "Thousands gather on the white salt flats every winter, turning the horizon a colour that doesn't belong to the desert around it.",
+      "image": "assets/images/full/flamingos-rann-of-kutch.jpg",
+      "thumb": "assets/images/thumb/flamingos-rann-of-kutch.jpg",
+      "credit": "Prof Ranga Sai / Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "tiger-ranthambore-yawn",
+      "title": "Full Yawn",
+      "species": "Bengal Tiger",
+      "location": "Ranthambore National Park, Rajasthan",
+      "category": "mammals",
+      "featured": true,
+      "story": "Mid-morning heat, and the biggest cat in the reserve makes no effort to hide how unimpressed it is with all of it.",
+      "image": "assets/images/full/tiger-ranthambore-yawn.jpg",
+      "thumb": "assets/images/thumb/tiger-ranthambore-yawn.jpg",
+      "credit": "Rohit Sharma / Wikimedia Commons, CC BY-SA 4.0"
+    },
+    {
+      "id": "painted-stork-reflection",
+      "title": "Mirror Water",
+      "species": "Painted Stork",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": true,
+      "story": "A still grey morning, a still grey lake, and one long orange bill breaking the symmetry.",
+      "image": "assets/images/full/painted-stork-reflection.jpg",
+      "thumb": "assets/images/thumb/painted-stork-reflection.jpg"
+    },
+    {
+      "id": "moorhen-sunset",
+      "title": "Last Light on the Wetland",
+      "species": "Common Moorhen",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": false,
+      "story": "As the sun dropped below the tree line, the whole lake turned to amber. One quiet ripple was all that gave the bird away.",
+      "image": "assets/images/full/moorhen-sunset.jpg",
+      "thumb": "assets/images/thumb/moorhen-sunset.jpg"
+    },
+    {
+      "id": "keoladeo-green-landscape",
+      "title": "The Wetland Itself",
+      "species": "Landscape",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "landscapes",
+      "featured": false,
+      "story": "Before any bird lands in frame, this is the place — flooded grassland and still water, the whole reason the park exists.",
+      "image": "assets/images/full/keoladeo-green-landscape.jpg",
+      "thumb": "assets/images/thumb/keoladeo-green-landscape.jpg",
+      "credit": "Nagarjun / Wikimedia Commons, CC BY 2.0"
+    },
+    {
+      "id": "stork-chicks-nest",
+      "title": "Two in the Canopy",
+      "species": "Painted Stork (juveniles)",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": false,
+      "story": "Two half-grown chicks stand shoulder to shoulder in a high nest of bare acacia branches, fog rolling through the treetops around them.",
+      "image": "assets/images/full/stork-chicks-nest.jpg",
+      "thumb": "assets/images/thumb/stork-chicks-nest.jpg"
+    },
+    {
+      "id": "kingfisher-branch",
+      "title": "Blue on Bark",
+      "species": "White-throated Kingfisher",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": false,
+      "story": "It held the same dead branch for twenty minutes, turning only its head, weighing every ripple on the water below.",
+      "image": "assets/images/full/kingfisher-branch.jpg",
+      "thumb": "assets/images/thumb/kingfisher-branch.jpg"
+    },
+    {
+      "id": "python-coiled",
+      "title": "Held Ground",
+      "species": "Indian Rock Python",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "reptiles",
+      "featured": false,
+      "story": "Coiled into dry grass the colour of its own scales, this python took the better part of an hour to notice — or to admit it had been seen.",
+      "image": "assets/images/full/python-coiled.jpg",
+      "thumb": "assets/images/thumb/python-coiled.jpg"
+    },
+    {
+      "id": "tiger-bandhavgarh",
+      "title": "Held Stare",
+      "species": "Bengal Tiger",
+      "location": "Bandhavgarh National Park, Madhya Pradesh",
+      "category": "mammals",
+      "featured": false,
+      "story": "It crossed the track without hurrying, gave the vehicles one long look, and kept walking into the sal forest.",
+      "image": "assets/images/full/tiger-bandhavgarh.jpg",
+      "thumb": "assets/images/thumb/tiger-bandhavgarh.jpg",
+      "credit": "Bernard Gagnon / Wikimedia Commons, CC BY 4.0"
+    },
+    {
+      "id": "thar-desert-sunset",
+      "title": "Dunes at Dusk",
+      "species": "Landscape",
+      "location": "Thar Desert, Rajasthan",
+      "category": "landscapes",
+      "featured": false,
+      "story": "A few hours west of the wetlands, the same state turns to sand — the light doing the same slow amber trick it does over water.",
+      "image": "assets/images/full/thar-desert-sunset.jpg",
+      "thumb": "assets/images/thumb/thar-desert-sunset.jpg",
+      "credit": "Sankara Subramanian / Wikimedia Commons, CC BY 2.0"
+    },
+    {
+      "id": "painted-stork-wetland",
+      "title": "Neighbours",
+      "species": "Painted Stork",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": false,
+      "story": "Coots and a shoveler kept their distance in the reeds while the stork held the shoreline alone.",
+      "image": "assets/images/full/painted-stork-wetland.jpg",
+      "thumb": "assets/images/thumb/painted-stork-wetland.jpg"
+    },
+    {
+      "id": "python-head",
+      "title": "On the Move",
+      "species": "Indian Rock Python",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "reptiles",
+      "featured": false,
+      "story": "Muscle rolling under patterned scale, the python eases down a sunlit bank toward cover.",
+      "image": "assets/images/full/python-head.jpg",
+      "thumb": "assets/images/thumb/python-head.jpg"
+    },
+    {
+      "id": "brahminy-kite-perched",
+      "title": "Talons and Catch",
+      "species": "Brahminy Kite",
+      "location": "Kabini, Nagarhole National Park",
+      "category": "birds",
+      "featured": false,
+      "story": "Chestnut and white against bare bark, pausing just long enough over a fresh catch to be seen.",
+      "image": "assets/images/full/brahminy-kite-perched.jpg",
+      "thumb": "assets/images/thumb/brahminy-kite-perched.jpg",
+      "credit": "Wikimedia Commons contributor, CC BY-SA 4.0"
+    },
+    {
+      "id": "pond-heron-green",
+      "title": "Green on Green",
+      "species": "Squacco Heron",
+      "location": "Keoladeo National Park, Bharatpur",
+      "category": "birds",
+      "featured": false,
+      "story": "A carpet of duckweed turned the entire wetland the same colour as the bird standing in it.",
+      "image": "assets/images/full/pond-heron-green.jpg",
+      "thumb": "assets/images/thumb/pond-heron-green.jpg"
+    }
+  ]
+}

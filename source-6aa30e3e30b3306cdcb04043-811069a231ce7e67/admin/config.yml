@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# After you connect Netlify Identity + Git Gateway (see HOSTING_GUIDE.md),
+# logged-in editors can manage everything below at yoursite.com/admin
+
+media_folder: "assets/images/full"
+public_folder: "assets/images/full"
+
+publish_mode: simple
+
+collections:
+  - name: "photos"
+    label: "Photographs"
+    label_singular: "Photograph"
+    description: "Every photo shown in the Gallery and on the Home page. Uploading a new photo here adds it to the site automatically."
+    files:
+      - name: "gallery"
+        label: "Photo collection"
+        file: "data/photos.json"
+        fields:
+          - name: "photos"
+            label: "Photographs"
+            widget: "list"
+            label_singular: "Photograph"
+            summary: "{{species}} — {{title}}"
+            fields:
+              - { name: "id", label: "ID (no spaces, e.g. tiger-riverbank)", widget: "string", hint: "Used internally — lowercase letters, numbers and hyphens only." }
+              - { name: "title", label: "Photo title", widget: "string" }
+              - { name: "species", label: "Species / subject", widget: "string" }
+              - { name: "location", label: "Location", widget: "string", required: false }
+              - name: "category"
+                label: "Category"
+                widget: "select"
+                options: ["birds", "mammals", "reptiles", "landscapes"]
+              - { name: "featured", label: "Show on Home page", widget: "boolean", default: false }
+              - { name: "story", label: "Caption / field note", widget: "text", required: false }
+              - { name: "image", label: "Full-size photo", widget: "image" }
+              - { name: "thumb", label: "Thumbnail (optional — full photo is used if left blank)", widget: "image", required: false }
+
+  - name: "settings"
+    label: "Site settings"
+    description: "Homepage headline, about page text, and contact details."
+    files:
+      - name: "general"
+        label: "General settings"
+        file: "data/settings.json"
+        fields:
+          - { name: "siteTitle", label: "Site title", widget: "string" }
+          - { name: "tagline", label: "Tagline", widget: "string" }
+          - { name: "heroHeadline", label: "Home page headline", widget: "string" }
+          - { name: "heroSubline", label: "Home page subheading", widget: "text" }
+          - { name: "aboutHeading", label: "About page heading", widget: "string" }
+          - { name: "aboutBody", label: "About page text", widget: "text", hint: "Leave a blank line between paragraphs." }
+          - { name: "aboutPortrait", label: "About page photo", widget: "image" }
+          - { name: "email", label: "Contact email", widget: "string" }
+          - { name: "instagram", label: "Instagram link", widget: "string", required: false }
+          - { name: "location", label: "Location shown on site", widget: "string" }
+          - { name: "footerNote", label: "Footer copyright text", widget: "string" }
